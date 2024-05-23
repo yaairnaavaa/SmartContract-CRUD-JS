@@ -1,0 +1,14 @@
+{
+  "name": "sc-crud-js",
+  "version": "1.0.0",
+  "license": "(MIT AND Apache-2.0)",
+  "scripts": {
+    "postinstall": "cd contract && npm install",
+    "build": "cd contract && npm run build",
+    "deploy": "cd contract && npm run deploy"
+  },
+  "devDependencies": {
+    "near-cli": "^3.3.0"
+  },
+  "dependencies": {}
+}

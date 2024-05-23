@@ -48,7 +48,7 @@ npm run deploy
 
 ## Métodos de prueba de contrato:
 
-ID=crud2.testnet
+ID=crud2.testnet</br>
 echo $ID
 
 ### 1. Obtener el total de los registros almacenados
